@@ -2,7 +2,7 @@
 
 A single-page portfolio summarizing my Summer 2026 IBM Consulting Early Associate Internship (EAI) — Source-to-Pay Transformation on an enterprise client account.
 
-**Live site:** https://danieljcuesta007.github.io/ibmportfolio/
+**Live site:** https://danielcuesta007.github.io/ibmportfolio/
 
 ## What's inside
 - IBM's Six Growth Behaviors — with evidence
